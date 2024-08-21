@@ -6,7 +6,7 @@ chapter : false
 pre : " <b> 1. </b> "
 ---
 
-![ConnectPrivate](01AWSWorkShop/vi/images/icons3.png)
+![ConnectPrivate](01AWSWorkShop/static/images/icons3.png)
 
 S3, viết tắt của **Simple Storage Service**
 là một dịch vụ lưu trữ dạng Object cung cấp khả năng mở rộng, 
