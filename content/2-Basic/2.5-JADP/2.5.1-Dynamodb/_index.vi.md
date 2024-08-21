@@ -20,18 +20,18 @@ Về NoSQL, các có thể tìm kiếm trên mạng để biết thêm về ph�
 ### Tạo cơ sở dữ liệu
 
 - Trong giao diện **DynamoDB**, ta chọn **Create table** 
-![ConnectPrivate](01AWSWorkShop/images/DynamoDB1.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/DynamoDB1.jpg)
 - Trong giao diện **Create table**, ở phần **Table name** ta nhập tên bảng mong muốn, ở **Partition key** ta nhập tên key và chọn kiểu dữ liệu, **Sort key** có thể nhập hoặc không 
-![ConnectPrivate](01AWSWorkShop/images/DynamoDB2.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/DynamoDB2.jpg)
 
 - Còn lại ta để default hết rồi cuộn xuống chọn **Create table**
-![ConnectPrivate](01AWSWorkShop/images/DynamoDB3.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/DynamoDB3.jpg)
 
 - Đợi status lên **Active** sau đó ta chọn table vừa tạo, chọn **Action**, chọn **Explore items**
-![ConnectPrivate](01AWSWorkShop/images/DynamoDB4.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/DynamoDB4.jpg)
 
 - Trong giao diện **Explore items**, chọn **Create item**, **Partion key** chọn value tùy ý, các bạn chọn **Add new attribute** để thêm item, đặt tên tùy ý
-![ConnectPrivate](01AWSWorkShop/images/DynamoDB5.jpg)
-![ConnectPrivate](01AWSWorkShop/images/DynamoDB6.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/DynamoDB5.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/DynamoDB6.jpg)
 
 Đến đây là ta đã tạo xong database để lưu số lượt xem rồi, mời các bạn sang bước tiếp theo.

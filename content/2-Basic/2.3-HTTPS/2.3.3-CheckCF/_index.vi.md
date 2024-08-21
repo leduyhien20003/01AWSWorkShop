@@ -9,13 +9,13 @@ pre : " <b> 2.3.3 </b> "
 **Trong giao diện CloudFront distribution**
 
 - Ở phần **Distribution**, chọn distribution vừa tạo
-![ConnectPrivate](01AWSWorkShop/images/check-cloufront1.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/check-cloufront1.jpg)
 
 - Đảm bảo rằng CloudFront đã deploy xong bằng cách xem nội dung ở mục **Last modified**
-![ConnectPrivate](01AWSWorkShop/images/check-cloufront2.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/check-cloufront2.jpg)
 
 - Sao chép **Distribution domain name**, dán vào trình duyệt và kiểm tra xem ta có kết nối đến trang web được hay không
-![ConnectPrivate](01AWSWorkShop/images/check-cloufront3.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/check-cloufront3.jpg)
 
 **Thành công rồi!**  
 

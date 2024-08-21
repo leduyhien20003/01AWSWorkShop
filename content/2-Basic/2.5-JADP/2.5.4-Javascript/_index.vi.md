@@ -10,13 +10,13 @@ Tại bước này ta sẽ dùng ngôn ngữ JavaScript viết một chức năn
 
 - **Dưới đây là code của mình các bạn có thể tham khảo**
 
-![ConnectPrivate](01AWSWorkShop/images/JS1.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/JS1.jpg)
 
 - Sau đó các bạn upload lại file web sơ yếu lý lịch của mình lên lại **S3**
  
   Các bạn đợi một khoảng thời gian cho **CloudFront** cập nhật lại hoặc các bạn cũng có thể làm cách sau để cập nhật luôn
   - Các bạn truy cập vào **CloudFront**, sau đó chọn **Distribution** chúng ta đang sử dụng, chọn **Invalidations** và chọn **Create invalidation**
-  ![ConnectPrivate](01AWSWorkShop/images/JS2.jpg)
+  ![ConnectPrivate](/01AWSWorkShop/images/JS2.jpg)
 
   - Trong giao diện **Create invalidation**, các bạn cập nhật file nào thì điền đường dẫn file đó, không nên **(/*)** sẽ tốn nhiều chi phí nếu ta có nhiều file.
 

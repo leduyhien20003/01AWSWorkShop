@@ -21,7 +21,7 @@ Trong phần này chúng ta sẽ sử dụng các dịch vụ sau:
 - DynamoDB
 
 **Sơ bộ toàn bộ hệ thống của chúng ta như sau**
-![ConnectPrivate](01AWSWorkShop/images/s3-satic-basic.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/s3-satic-basic.jpg)
 
 **Các bước thực hiện**
 1. [Tạo database lưu trữ số lượt xem](2.5.1-Dynamodb/)

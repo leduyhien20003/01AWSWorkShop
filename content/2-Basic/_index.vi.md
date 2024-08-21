@@ -19,7 +19,7 @@ Trong phần này chúng ta sẽ dựng một website sơ yếu lý lịch tĩnh
 - API Gateway
 - Dynamo DB
 
-![ConnectPrivate](01AWSWorkShop/images/s3-satic-basic.jpg)
+![ConnectPrivate](/01AWSWorkShop/images/s3-satic-basic.jpg)
 
 ### Nội dung
   - [HTML, CSS](2.1-HTML,CSS/)
