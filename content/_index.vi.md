@@ -15,7 +15,7 @@ chapter : false
 ### Nội dung
 
  1. [Giới thiệu](1-introduce/)
- 2. [Xây dựng resume website](2-Basic/)
+ 2. [eXây dựng resume website](2-Basic/)
  3. [Dọn dẹp tài nguyên](6-cleanup/)
 
 {{% notice info %}}
