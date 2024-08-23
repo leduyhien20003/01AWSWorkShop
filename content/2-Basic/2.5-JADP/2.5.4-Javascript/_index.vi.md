@@ -20,4 +20,4 @@ Tại bước này ta sẽ dùng ngôn ngữ JavaScript viết một chức năn
 
   - Trong giao diện **Create invalidation**, các bạn cập nhật file nào thì điền đường dẫn file đó, không nên **(/*)** sẽ tốn nhiều chi phí nếu ta có nhiều file.
 
-Sau khi hoàn thành bước này các đã hoàn thành phần 1!
+Sau khi hoàn thành bước này các đã hoàn thành việc xây dựng một website lý lịch tĩnh sử dụng S3 kết hợp với một số dịch vụ khác của AWS!
