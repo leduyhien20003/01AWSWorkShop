@@ -22,4 +22,7 @@ chapter : false
 Bài lab còn sử dụng một số slide từ khóa [AWS Cloud for beginner](https://www.udemy.com/course/aws-cloud-for-beginner-vietnamese/) của anh Linh Nguyễn. Ngoài ra bài thực hành này cũng tham khảo một số kiến thức từ bài lab [Hosting static website with Amazon S3](https://000057.awsstudygroup.com/vi/) và một số nguồn trên mạng.
 {{% /notice %}}
 
+{{% notice info %}}
+Bài lab này được thực hiện dựa trên thử thách [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/), Cloud Resume Challenge là một thử thách tạo sơ yếu lý lịch gồm nhiều bước, giúp xây dựng và thể hiện các kỹ năng cơ bản cần thiết để theo đuổi sự nghiệp trong lĩnh vực điện toán đám mây. Dự án này được công bố bởi Forrest Brazeal.
+{{% /notice %}}
 
